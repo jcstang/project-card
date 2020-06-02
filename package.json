@@ -6,6 +6,10 @@
   "peerDependencies": {
     "react": "^16.13.1"
   },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
   "dependencies": {
     "react": "^16.13.1",
     "webpack": "^4.43.0"
